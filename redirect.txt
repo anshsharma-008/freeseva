@@ -1,0 +1,2 @@
+https://netlify.app* https://ansonix.online 301!
+http://netlify.app* https://ansonix.online 301!
